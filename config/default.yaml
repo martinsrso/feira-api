@@ -1,0 +1,8 @@
+port: 8888
+db_user: user
+db_pass: pass
+db_name: market
+db_port: 5432
+timezone: America/Sao_Paulo
+db_host: host.docker.internal
+import_db: true
